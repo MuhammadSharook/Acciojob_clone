@@ -1,0 +1,40 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#1E1E1E"/>
+<g id="Landing">
+<g id="1. Hero Section" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="783" transform="translate(-138 -485)" fill="white"/>
+<g id="Hero Left">
+<g id="Features" filter="url(#filter0_d_0_1)">
+<rect x="-28" y="-28" width="711" height="77" rx="8" fill="white" shape-rendering="crispEdges"/>
+<g id="Frame 999">
+<g id="Group 907">
+<circle id="Ellipse 33" cx="10" cy="10.5" r="18" fill="#FFE1DF"/>
+<g id="Frame" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M10.0026 5.83327C11.7707 5.83327 13.4664 6.53565 14.7167 7.78589C15.9669 9.03614 16.6693 10.7318 16.6693 12.4999C16.6693 14.268 15.9669 15.9637 14.7167 17.214C13.4664 18.4642 11.7707 19.1666 10.0026 19.1666C8.23449 19.1666 6.5388 18.4642 5.28856 17.214C4.03832 15.9637 3.33594 14.268 3.33594 12.4999C3.33594 10.7318 4.03832 9.03614 5.28856 7.78589C6.5388 6.53565 8.23449 5.83327 10.0026 5.83327ZM10.0026 8.74994L8.9001 10.9833L6.43594 11.3416L8.21927 13.0791L7.79844 15.5341L10.0026 14.3749L12.2068 15.5333L11.7859 13.0791L13.5693 11.3408L11.1051 10.9824L10.0026 8.74994ZM10.8359 1.66577L15.0026 1.6666V4.1666L13.8668 5.11494C12.9242 4.62042 11.8952 4.3123 10.8359 4.20744V1.6666V1.66577ZM9.16927 1.66577V4.20744C8.11039 4.31214 7.08162 4.61998 6.13927 5.1141L5.0026 4.1666V1.6666L9.16927 1.66577Z" fill="#FF7169"/>
+</g>
+</g>
+</g>
+<rect x="-27.5" y="-27.5" width="710" height="76" rx="7.5" stroke="#E2E2E2" shape-rendering="crispEdges"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-68" y="-66" width="791" height="157" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="20"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="783" fill="white" transform="translate(-138 -485)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>
